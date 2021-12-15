@@ -1,6 +1,6 @@
 {
   "name": "vuub",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "description": "Very useful utility box (vuub) is a set of simple, yet useful utilities for developers.",
   "main": "index.js",
   "scripts": {
