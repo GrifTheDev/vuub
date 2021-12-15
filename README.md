@@ -1,6 +1,6 @@
 # Very Useful Utility Box (vuub)
 
-<p align="center">
+
 
 <p align="center">
 
@@ -12,4 +12,3 @@
 
 </p>
 
-</p>
