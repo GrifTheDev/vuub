@@ -1,4 +1,4 @@
-![npm](https://img.shields.io/npm/v/vuub?style=flat-square)
+![npm](https://img.shields.io/npm/v/vuub?style=flat-square&color=blue)
 
 # Very Useful Utility Box (vuub)
 
