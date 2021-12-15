@@ -19,4 +19,10 @@ $ npm install vuub
 
 ## Usage Guide
 
-You can find a full guide on how to use vuub here: https://studentzone.gitbook.io/vuub/the-basics/introduction-to-vuub.
+You can find a full guide on how to use vuub [here](https://studentzone.gitbook.io/vuub/the-basics/introduction-to-vuub).
+
+## Contributing
+
+If you have an idea for a useful utility and even have the code for it, make a fork of the project and then add a seperate script for your utility inside the correct category folder. For example, if you are making an array utility it would go in `utilities/arrays/(utility name here).js`.
+
+If you only have an idea for a utility and not the code, open a issue that begins with `[Suggestion]` and then write your suggestion there.
