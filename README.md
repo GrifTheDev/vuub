@@ -17,6 +17,12 @@ As of now, vuub can only be installed using <b>npm</b>. To install vuub, simply 
 $ npm install vuub
 ```
 
-# Utility Cateogries
+## Guide
 
-> Because vuub is a "utility box" it contains many utilities. These utilities are grouped into categories. For example, the numbers category contains all utilities that have something do to with numbers. Each utility will contain example usage, as well as the output for the said usage.
+### Utility Categories
+
+> Because vuub is a "utility box" it contains many utilities. These utilities are grouped into categories. For example, the numbers category contains all utilities that have something do to with numbers.
+
+### Guide layout
+
+> As said above, the guide will be grouped into categories. Each category will contain its utilities. Each utility has a short description of what it does, as well as example usage and the output for said usage.
