@@ -3,6 +3,7 @@
 const subtractStringArrays = require("./utilities/synchronous/arrays/subtractStringArrays")
 const getPrimeFactors = require("./utilities/synchronous/numbers/getPrimeFactors")
 const isEvenNumber = require("./utilities/synchronous/numbers/isEvenNumber")
+const generateRandomId = require("./utilities/synchronous/strings/generateRandomId")
 
 
 // --- Async ---
@@ -19,5 +20,6 @@ module.exports = {
     subtractStringArraysAsync: subtractStringArraysAsync,
     getPrimeFactorsAsync: getPrimeFactorsAsync,
     isEvenNumberAsync: isEvenNumberAsync,
-    generateRandomIdAsync: generateRandomIdAsync
+    generateRandomIdAsync: generateRandomIdAsync,
+    generateRandomId: generateRandomId
 }

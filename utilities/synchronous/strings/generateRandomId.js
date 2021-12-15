@@ -5,8 +5,6 @@ function generateRandomId(length) {
         console.log('[vuub] (Warn) :: It is not recommended to request IDs longer or equal to 200,000 characters. Preformance issues should be expected. ID generation will continue in 5 seconds.')
     }
     
-    
-
     var usable_characters = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
     var random_id = '';
 
