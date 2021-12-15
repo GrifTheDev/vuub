@@ -25,4 +25,4 @@ You can find a full guide on how to use vuub [here](https://studentzone.gitbook.
 
 If you have an idea for a useful utility and even have the code for it, make a fork of the project and then add a seperate script for your utility inside the correct category folder. For example, if you are making an array utility it would go in `utilities/arrays/(utility name here).js`. Then, link it in the `index.js` file like the other utilities are linked (require it and then add it to the module.exports at the bottom). Once done, make a PR and we will review your contribution!
 
-If you only have an idea for a utility and not the code, open a issue that begins with `[Suggestion]` and then write your suggestion there.
+If you only have an idea for a utility and not the code, open an issue that begins with `[Suggestion]` and then write your suggestion there.
