@@ -6,6 +6,6 @@
     <b>
         Very useful utility box (vuub) is a set of simple, yet useful utilities for developers. 
     </b><br>
-    Available on <b>[npm](https://www.npmjs.com/package/vuub)</b>.
+    Available on <b> [npm](https://www.npmjs.com/package/vuub) </b>.
 </p>
 
