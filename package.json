@@ -1,6 +1,6 @@
 {
   "name": "vuub",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Very useful utility box (vuub) is a set of simple, yet useful utilities for developers.",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/Grif-Real/vuub.git"
   },
   "keywords": [
-    "vuub"
+    "vuub", "utilities", "useful-utilities"
   ],
   "author": "Grif",
   "license": "ISC",
