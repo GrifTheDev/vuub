@@ -19,4 +19,4 @@ $ npm install vuub
 
 ## Usage Guide
 
-You can find a full guide on how to use vuub here: https://studentzone.gitbook.io/vuub/the-guide/numbers.
+You can find a full guide on how to use vuub here: https://studentzone.gitbook.io/vuub/the-basics/introduction-to-vuub.
