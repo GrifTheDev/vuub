@@ -1,6 +1,6 @@
-const subtractStringArrays = require("./features/arrays/subtractStringArrays")
-const getPrimeFactors = require("./features/numbers/getPrimeFactors")
-const isEvenNumber = require("./features/numbers/isEvenNumber")
+const subtractStringArrays = require("./utilities/arrays/subtractStringArrays")
+const getPrimeFactors = require("./utilities/numbers/getPrimeFactors")
+const isEvenNumber = require("./utilities/numbers/isEvenNumber")
 
 module.exports = {
     isEvenNumber: isEvenNumber,
