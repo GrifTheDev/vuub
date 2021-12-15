@@ -1,10 +1,7 @@
+const getPrimeFactors = require("./features/numbers/getPrimeFactors")
 const isEvenNumber = require("./features/numbers/isEvenNumber")
-
-function returnTrue () {
-    return true
-}
 
 module.exports = {
     isEvenNumber: isEvenNumber,
-    returnTrue: returnTrue
+    getPrimeFactors: getPrimeFactors
 }

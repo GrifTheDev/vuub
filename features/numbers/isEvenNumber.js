@@ -1,7 +1,7 @@
 function isEvenNumber(number) {
 
     if (!number) throw new Error('You must proivde an argument for the "isEvenNumber" function.')
-    if (isNaN(number)) throw new Error('First argument passed is not a number.')
+    if (isNaN(number)) throw new Error('The first argument passed into the "isEvenNumber" function is not a number.')
     
 
     if (number % 2 == 0) {
