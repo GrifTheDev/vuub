@@ -17,6 +17,6 @@ As of now, vuub can only be installed using <b>npm</b>. To install vuub, simply 
 $ npm install vuub
 ```
 
-## Package Guide
+## Usage Guide
 
 You can find a full guide on how to use vuub here: https://studentzone.gitbook.io/vuub/the-guide/numbers.
