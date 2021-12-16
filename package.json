@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Grif-Real/vuub.git"
+    "url": "git+https://github.com/GrifTheDev/vuub.git"
   },
   "keywords": [
     "vuub", "utilities", "useful-utilities"
@@ -16,7 +16,7 @@
   "author": "Grif",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Grif-Real/vuub/issues"
+    "url": "https://github.com/GrifTheDev/vuub/issues"
   },
-  "homepage": "https://github.com/Grif-Real/vuub#readme"
+  "homepage": "https://github.com/GrifTheDev/vuub#readme"
 }
