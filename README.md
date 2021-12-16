@@ -19,6 +19,8 @@ $ npm install vuub
 
 ## Usage Guide
 
+Vuub contanins functions like `getPrimeFactors`, `generateRandomId`, `isEvenNumber` and more! The aim of this is to help you save your time, and let you code parts that matter and not what you have already coded a million times.
+
 You can find a full guide on how to use vuub [here](https://studentzone.gitbook.io/vuub/the-basics/introduction-to-vuub).
 
 ## Contributing
