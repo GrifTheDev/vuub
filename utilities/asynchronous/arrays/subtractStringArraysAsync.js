@@ -20,7 +20,7 @@ async function subtractStringArraysAsync(firstArray, secondArray) {
 
         }
     }
-
+ // comment
     finalArray = secondArray.concat(firstArray)
 
     return finalArray
