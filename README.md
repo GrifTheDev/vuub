@@ -29,7 +29,7 @@ If you have an idea for a useful utility and even have the code for it, make a f
 
 If you only have an idea for a utility and not the code, open an issue that begins with `[Suggestion]` and then write your suggestion there.
 
-# Latest Updates (v. 0.3.2)
+# Latest Updates (0.3.2)
 
 - Added the `convertToUnixTimestamp` function, which lets you convert any numbered Javascript date, into a unix timestamp.
 - Updated documentation to include examples for asynchronous and synchronous versions of each utility.
